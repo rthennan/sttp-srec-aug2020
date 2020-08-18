@@ -1,8 +1,8 @@
 # Simple Image Classifaction model using CNN
 <br><br>
-Seq_Dataprep.py
+**Seq_Dataprep.py**
 <br>
-***The images folder and chestXrayCoronaMetadata.csv should be accssible in the current working directory***
+**The images folder and chestXrayCoronaMetadata.csv should be accssible in the current working directory**
 <br>
 1. Read All images and find smallest dimension<br>
 2.Tabular Data Read -  Tabular Data with Image Path and class<br>
@@ -23,11 +23,12 @@ Seq_Dataprep.py
 12. Scale Tabular Data<br>
 13. Export as Numpy Array, ready for model<br>
 <br>
-modelBuild.py
+**modelBuild.py**
 <br>
 1. Concatenated model, combining an ANN from tabular data and CNN a from image data
 2. Used Tensorflow callbacks TensorBoard and checkpoint(ModelCheckpoint)
 <br>
 <br>
-Parallel_Dataprep_1.py , Parallel_Dataprep_2.py and Parallel_Dataprep_3.py<br>
-Simplified parallel processing equivalent of Seq_Dataprep.py
+**Parallel_Dataprep_1.py , Parallel_Dataprep_2.py and Parallel_Dataprep_3.py**
+<br>
+-Simplified parallel processing equivalent of Seq_Dataprep.py
