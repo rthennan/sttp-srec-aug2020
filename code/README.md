@@ -1,6 +1,6 @@
 # Simple Image Classifaction model using CNN
 <br><br>
-**Seq_Dataprep.py**
+**Seq_Dataprep.py - use Parallel processing if you have more than 4 CPU threads**
 <br>
 **The images folder and chestXrayCoronaMetadata.csv should be accssible in the current working directory**
 <br>
@@ -23,10 +23,8 @@
 12.Scale Tabular Data<br>
 13.Export as Numpy Array, ready for model<br>
 <br>
-**modelBuild.py**
 <br>
-1.Concatenated model, combining an ANN from tabular data and CNN a from image data<br>
-2.Used Tensorflow callbacks TensorBoard and checkpoint(ModelCheckpoint)
+**Skip the Parallel Processing files and jump to modelBuild if you choose to use Sequential Processing**
 <br>
 <br>
 **Parallel_Dataprep_1.py , Parallel_Dataprep_2.py and Parallel_Dataprep_3.py**
@@ -41,4 +39,12 @@
 -Tedious to troubleshoot.
 <br>
 -But gets the job done in one file.
+
+
+**modelBuild.py**
+<br>
+1.Concatenated model, combining an ANN from tabular data and CNN a from image data<br>
+2.Used Tensorflow callbacks TensorBoard and checkpoint(ModelCheckpoint)
+<br>
+<br>
 
