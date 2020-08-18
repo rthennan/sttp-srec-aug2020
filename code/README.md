@@ -25,7 +25,7 @@
 <br>
 **modelBuild.py**
 <br>
-1.Concatenated model, combining an ANN from tabular data and CNN a from image data
+1.Concatenated model, combining an ANN from tabular data and CNN a from image data<br>
 2.Used Tensorflow callbacks TensorBoard and checkpoint(ModelCheckpoint)
 <br>
 <br>
@@ -36,9 +36,9 @@
 <br>
 **Parallel_Dataprep_V2.py**
 <br>
-- Slightly more complex process.
+-Slightly more complex process.
 <br>
-- Tedious to troubleshoot.
+-Tedious to troubleshoot.
 <br>
-- But gets the job done in one file.
+-But gets the job done in one file.
 
