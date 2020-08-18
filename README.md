@@ -7,3 +7,6 @@ Session time - Session: 4 (03.10 PM to 04.40 PM IST)
 <br>
 <br>
 contact: rajesh.thennan@gmail.com
+<br>
+
+Image data obtained from https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset and simplified
