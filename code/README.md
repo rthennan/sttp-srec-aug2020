@@ -32,3 +32,13 @@
 **Parallel_Dataprep_1.py , Parallel_Dataprep_2.py and Parallel_Dataprep_3.py**
 <br>
 -Simplified parallel processing equivalent of Seq_Dataprep.py
+<br>
+<br>
+**Parallel_Dataprep_V2.py**
+<br>
+- Slightly more complex process.
+<br>
+- Tedious to troubleshoot.
+<br>
+- But gets the job done in one file.
+
