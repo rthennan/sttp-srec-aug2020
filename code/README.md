@@ -1,4 +1,4 @@
-# Simple Image Classifaction model using CNN
+# Concatenated Image Classifaction model using CNN (for Image) and ANN (for Tabular Data)
 <br><br>
 **The images folder and chestXrayCoronaMetadata.csv should be accssible in the current working directory**
 <br><br>
