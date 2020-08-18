@@ -4,7 +4,7 @@ Created on Tue Aug 16  06:03:19 2020
 
 @author: Rajesh Thennan
 
-Seq_Dataprep.py or Parallel_Dataprep_3.pyshould have been compleetd successfully
+Seq_Dataprep.py or Parallel_Dataprep_3.py or Parallel_Dataprep_V2.py should have been compleetd successfully
 """
 import tensorflow as tf # pip install tensorflow
 import tensorflow.keras.backend as K
