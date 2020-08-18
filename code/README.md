@@ -2,7 +2,8 @@
 <br><br>
 **The images folder and chestXrayCoronaMetadata.csv should be accssible in the current working directory**
 <br><br>
-**use Parallel processing if you have more than 4 CPU threads**
+**Use Parallel processing if you have more than 4 CPU threads**
+<br>
 **Seq_Dataprep.py** 
 <br>
 <br>
