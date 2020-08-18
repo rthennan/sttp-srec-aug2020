@@ -1,8 +1,10 @@
 # Simple Image Classifaction model using CNN
 <br><br>
-**Seq_Dataprep.py - use Parallel processing if you have more than 4 CPU threads**
-<br>
 **The images folder and chestXrayCoronaMetadata.csv should be accssible in the current working directory**
+<br><br>
+**use Parallel processing if you have more than 4 CPU threads**
+**Seq_Dataprep.py** 
+<br>
 <br>
 1.Read All images and find smallest dimension<br>
 2.Tabular Data Read -  Tabular Data with Image Path and class<br>
