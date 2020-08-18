@@ -37,6 +37,11 @@ from PIL import Image
 from math import ceil
 from sklearn.preprocessing import StandardScaler # pip install -U scikit-learn
 from pickle import dump
+from datetime import datetime as dt
+
+msg = 'Started Preprocessing '
+print('\n')
+print(str(dt.now())[:19],msg)
 
 imgPath = 'images'
 
@@ -177,7 +182,9 @@ np.save('X_test_tab.npy', X_test_tab)
 np.save('X_test_img.npy', X_test_img)
 np.save('Y_test.npy', Y_test)
 
-
+msg = 'Finished Preprocessing '
+print('\n')
+print(str(dt.now())[:19],msg) 
 
 
 
